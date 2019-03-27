@@ -6,3 +6,6 @@ The course repository was forked and then cloned.
 
 # Online editing
 Sometimes it makes sense to change files online. 
+
+# Link to my new blog
+https://starlord32.github.io/
